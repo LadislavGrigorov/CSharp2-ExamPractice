@@ -1,0 +1,6 @@
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe.config
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\KaspichanNumbers\bin\Debug\KaspichanNumbers.pdb
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\KaspichanNumbers\obj\Debug\KaspichanNumbers.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\KaspichanNumbers\obj\Debug\KaspichanNumbers.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\KaspichanNumbers\obj\Debug\KaspichanNumbers.pdb

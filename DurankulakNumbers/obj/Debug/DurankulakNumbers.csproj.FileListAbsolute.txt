@@ -1,0 +1,6 @@
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe.config
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\DurankulakNumbers\bin\Debug\DurankulakNumbers.pdb
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\DurankulakNumbers\obj\Debug\DurankulakNumbers.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\DurankulakNumbers\obj\Debug\DurankulakNumbers.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\DurankulakNumbers\obj\Debug\DurankulakNumbers.pdb

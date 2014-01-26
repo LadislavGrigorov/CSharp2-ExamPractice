@@ -1,0 +1,1 @@
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\MovingLetters\bin\Debug\MovingLetters.exe.config

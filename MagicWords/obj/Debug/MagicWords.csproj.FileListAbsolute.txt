@@ -1,0 +1,6 @@
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\MagicWords\bin\Debug\MagicWords.exe.config
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\MagicWords\bin\Debug\MagicWords.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\MagicWords\bin\Debug\MagicWords.pdb
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\MagicWords\obj\Debug\MagicWords.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\MagicWords\obj\Debug\MagicWords.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\MagicWords\obj\Debug\MagicWords.pdb

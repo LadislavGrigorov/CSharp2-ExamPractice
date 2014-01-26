@@ -1,0 +1,6 @@
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Zerg!!!\bin\Debug\Zerg!!!.exe.config
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Zerg!!!\bin\Debug\Zerg!!!.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Zerg!!!\bin\Debug\Zerg!!!.pdb
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Zerg!!!\obj\Debug\Zerg!!!.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Zerg!!!\obj\Debug\Zerg!!!.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Zerg!!!\obj\Debug\Zerg!!!.pdb

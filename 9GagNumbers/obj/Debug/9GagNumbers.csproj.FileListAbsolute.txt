@@ -1,0 +1,6 @@
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\9GagNumbers\bin\Debug\9GagNumbers.exe.config
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\9GagNumbers\obj\Debug\9GagNumbers.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\9GagNumbers\bin\Debug\9GagNumbers.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\9GagNumbers\bin\Debug\9GagNumbers.pdb
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\9GagNumbers\obj\Debug\9GagNumbers.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\9GagNumbers\obj\Debug\9GagNumbers.pdb

@@ -1,0 +1,6 @@
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe.config
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\JoroTheRabbit\obj\Debug\JoroTheRabbit.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb

@@ -1,0 +1,6 @@
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Game\bin\Debug\Game.exe.config
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Game\bin\Debug\Game.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Game\bin\Debug\Game.pdb
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Game\obj\Debug\Game.exe
+D:\TelerikArchives\C2ExamPractice\ExamPracticeCSharp2\Game\obj\Debug\Game.pdb
